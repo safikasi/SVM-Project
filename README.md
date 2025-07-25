@@ -23,12 +23,16 @@ Using the famous Fisher's Iris dataset, we explore feature analysis, model train
 
 <img width="747" height="695" alt="PairGrid" src="https://github.com/user-attachments/assets/17bd5ce2-2c2d-4267-b2de-181dcdf45652" />
 
+---
 <img width="367" height="276" alt="KDEPlot" src="https://github.com/user-attachments/assets/70025b6e-36a4-4ee0-a9f7-5a5a259b12c8" />
 
-
+---
 <img width="370" height="126" alt="C-R with GridPredictions" src="https://github.com/user-attachments/assets/d324c378-6956-4d33-a522-e381932f44aa" />
 
+---
 <img width="745" height="239" alt="C-R" src="https://github.com/user-attachments/assets/47631b6e-39cd-44ab-ad34-503f420d8c29" />
+
+---
 <img width="487" height="720" alt="Grid" src="https://github.com/user-attachments/assets/db3e9096-abe3-4369-a838-ec11e90c71cf" />
 
 ## 📊 Dataset Features
